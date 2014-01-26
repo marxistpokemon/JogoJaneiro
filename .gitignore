@@ -213,3 +213,18 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+## Unity
+
+/*.sln
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.unityproj
+/Unity/.DS_Store
+/Unity/Library/FailedAssetImports.txt
+/Unity/Library/cache/
+/Unity/Library/previews/
+/Unity/Library/ScriptAssemblies
+/Unity/obj
+/Unity/Temp
